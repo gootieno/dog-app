@@ -1,0 +1,12 @@
+{
+  "name": "dogapp",
+  "version": "1.0.0",
+  "description": "In this exercise, you will practice extracting the response components from `GET` requests made with `fetch` on the browser.",
+  "main": "fetch-requests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
